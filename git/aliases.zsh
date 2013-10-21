@@ -24,4 +24,5 @@ alias gba="git branch -a"
 alias gcp="git cherry-pick"
 alias gl="git log --graph --pretty=format:'%Cred%h%Creset %an: %s - %Creset %C(yellow)%d%Creset %Cgreen(%cr)%Creset' --abbrev-commit --date=relative"
 alias gpom="git pull origin master"
+alias gpo="git pull origin"
 alias gcd='cd "`git rev-parse --show-toplevel`"'
